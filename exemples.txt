@@ -1,0 +1,20 @@
+Variables
+
+Non typé:
+php         $variable = 1;
+javascript  let variable = 1;
+Python      variable = ...
+
+typé
+C#, C, C++, Java int variable;
+                 string variable;
+                 bool variable;
+Visual basic     dim variable as integer
+
+
+Langage objet
+
+Langage compilé
+Source | -> IL (intermediate language) -> VM (Langage machine)
+
+C# est intégré au framework .NET
