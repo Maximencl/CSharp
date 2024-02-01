@@ -1,0 +1,15 @@
+C:\Users\Maison\Desktop\CSharp\Variables\bin\Debug\net8.0\Variables.exe
+C:\Users\Maison\Desktop\CSharp\Variables\bin\Debug\net8.0\Variables.deps.json
+C:\Users\Maison\Desktop\CSharp\Variables\bin\Debug\net8.0\Variables.runtimeconfig.json
+C:\Users\Maison\Desktop\CSharp\Variables\bin\Debug\net8.0\Variables.dll
+C:\Users\Maison\Desktop\CSharp\Variables\bin\Debug\net8.0\Variables.pdb
+C:\Users\Maison\Desktop\CSharp\Variables\obj\Debug\net8.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maison\Desktop\CSharp\Variables\obj\Debug\net8.0\Variables.AssemblyInfoInputs.cache
+C:\Users\Maison\Desktop\CSharp\Variables\obj\Debug\net8.0\Variables.AssemblyInfo.cs
+C:\Users\Maison\Desktop\CSharp\Variables\obj\Debug\net8.0\Variables.csproj.CoreCompileInputs.cache
+C:\Users\Maison\Desktop\CSharp\Variables\obj\Debug\net8.0\Variables.sourcelink.json
+C:\Users\Maison\Desktop\CSharp\Variables\obj\Debug\net8.0\Variables.dll
+C:\Users\Maison\Desktop\CSharp\Variables\obj\Debug\net8.0\refint\Variables.dll
+C:\Users\Maison\Desktop\CSharp\Variables\obj\Debug\net8.0\Variables.pdb
+C:\Users\Maison\Desktop\CSharp\Variables\obj\Debug\net8.0\Variables.genruntimeconfig.cache
+C:\Users\Maison\Desktop\CSharp\Variables\obj\Debug\net8.0\ref\Variables.dll
