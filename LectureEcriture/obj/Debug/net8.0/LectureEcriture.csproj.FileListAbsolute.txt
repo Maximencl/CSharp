@@ -1,0 +1,15 @@
+C:\Users\Maison\Desktop\CSharp\LectureEcriture\obj\Debug\net8.0\LectureEcriture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maison\Desktop\CSharp\LectureEcriture\obj\Debug\net8.0\LectureEcriture.AssemblyInfoInputs.cache
+C:\Users\Maison\Desktop\CSharp\LectureEcriture\obj\Debug\net8.0\LectureEcriture.AssemblyInfo.cs
+C:\Users\Maison\Desktop\CSharp\LectureEcriture\obj\Debug\net8.0\LectureEcriture.csproj.CoreCompileInputs.cache
+C:\Users\Maison\Desktop\CSharp\LectureEcriture\obj\Debug\net8.0\LectureEcriture.sourcelink.json
+C:\Users\Maison\Desktop\CSharp\LectureEcriture\bin\Debug\net8.0\LectureEcriture.exe
+C:\Users\Maison\Desktop\CSharp\LectureEcriture\bin\Debug\net8.0\LectureEcriture.deps.json
+C:\Users\Maison\Desktop\CSharp\LectureEcriture\bin\Debug\net8.0\LectureEcriture.runtimeconfig.json
+C:\Users\Maison\Desktop\CSharp\LectureEcriture\bin\Debug\net8.0\LectureEcriture.dll
+C:\Users\Maison\Desktop\CSharp\LectureEcriture\bin\Debug\net8.0\LectureEcriture.pdb
+C:\Users\Maison\Desktop\CSharp\LectureEcriture\obj\Debug\net8.0\LectureEcriture.dll
+C:\Users\Maison\Desktop\CSharp\LectureEcriture\obj\Debug\net8.0\refint\LectureEcriture.dll
+C:\Users\Maison\Desktop\CSharp\LectureEcriture\obj\Debug\net8.0\LectureEcriture.pdb
+C:\Users\Maison\Desktop\CSharp\LectureEcriture\obj\Debug\net8.0\LectureEcriture.genruntimeconfig.cache
+C:\Users\Maison\Desktop\CSharp\LectureEcriture\obj\Debug\net8.0\ref\LectureEcriture.dll
