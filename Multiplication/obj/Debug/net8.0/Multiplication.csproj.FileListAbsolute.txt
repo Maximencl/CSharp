@@ -1,0 +1,15 @@
+C:\Users\Maison\Desktop\COURS\DEV\CSharp\Multiplication\obj\Debug\net8.0\Multiplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maison\Desktop\COURS\DEV\CSharp\Multiplication\obj\Debug\net8.0\Multiplication.AssemblyInfoInputs.cache
+C:\Users\Maison\Desktop\COURS\DEV\CSharp\Multiplication\obj\Debug\net8.0\Multiplication.AssemblyInfo.cs
+C:\Users\Maison\Desktop\COURS\DEV\CSharp\Multiplication\obj\Debug\net8.0\Multiplication.csproj.CoreCompileInputs.cache
+C:\Users\Maison\Desktop\COURS\DEV\CSharp\Multiplication\obj\Debug\net8.0\Multiplication.sourcelink.json
+C:\Users\Maison\Desktop\COURS\DEV\CSharp\Multiplication\bin\Debug\net8.0\Multiplication.exe
+C:\Users\Maison\Desktop\COURS\DEV\CSharp\Multiplication\bin\Debug\net8.0\Multiplication.deps.json
+C:\Users\Maison\Desktop\COURS\DEV\CSharp\Multiplication\bin\Debug\net8.0\Multiplication.runtimeconfig.json
+C:\Users\Maison\Desktop\COURS\DEV\CSharp\Multiplication\bin\Debug\net8.0\Multiplication.dll
+C:\Users\Maison\Desktop\COURS\DEV\CSharp\Multiplication\bin\Debug\net8.0\Multiplication.pdb
+C:\Users\Maison\Desktop\COURS\DEV\CSharp\Multiplication\obj\Debug\net8.0\Multiplication.dll
+C:\Users\Maison\Desktop\COURS\DEV\CSharp\Multiplication\obj\Debug\net8.0\refint\Multiplication.dll
+C:\Users\Maison\Desktop\COURS\DEV\CSharp\Multiplication\obj\Debug\net8.0\Multiplication.pdb
+C:\Users\Maison\Desktop\COURS\DEV\CSharp\Multiplication\obj\Debug\net8.0\Multiplication.genruntimeconfig.cache
+C:\Users\Maison\Desktop\COURS\DEV\CSharp\Multiplication\obj\Debug\net8.0\ref\Multiplication.dll
